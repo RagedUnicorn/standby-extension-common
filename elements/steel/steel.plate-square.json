@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "steel.plate-square",
+  "names": {
+    "en": "Square plate",
+    "de": "Eckige Platte",
+    "fr": "Plaque carrée"
+  },
+  "category": "steel",
+  "family": "steel",
+  "disciplines": ["cma", "ipsc", "uspsa", "drill"],
+  "labelFamily": "S",
+  "count": {
+    "class": "steel"
+  },
+  "art": {
+    "kind": "plate",
+    "square": true
+  },
+  "physical": {
+    "width": 150,
+    "height": 150
+  },
+  "mount": 900
+}

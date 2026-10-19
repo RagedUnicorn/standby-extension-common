@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "mover.turner",
+  "names": {
+    "en": "Turner",
+    "de": "Turner",
+    "fr": "Turner"
+  },
+  "category": "movers",
+  "family": "mover",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": "T",
+  "count": {
+    "class": "paper"
+  },
+  "art": {
+    "kind": "turner"
+  },
+  "physical": {
+    "width": 460,
+    "height": 720
+  }
+}

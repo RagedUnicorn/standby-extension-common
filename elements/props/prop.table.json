@@ -1,0 +1,53 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.table",
+  "names": {
+    "en": "Table",
+    "de": "Tisch",
+    "fr": "Table"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "Table",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -458.3
+  },
+  "views": [
+    {
+      "id": "across",
+      "rotations": [0, 180],
+      "names": {
+        "en": "Across",
+        "de": "Quer",
+        "fr": "En travers"
+      }
+    },
+    {
+      "id": "along",
+      "rotations": [90, 270],
+      "names": {
+        "en": "Along",
+        "de": "Längs",
+        "fr": "En long"
+      }
+    }
+  ],
+  "physical": {
+    "width": 1200,
+    "height": 750
+  },
+  "footprint": {
+    "depth": 800
+  },
+  "surfaces": [
+    {
+      "top": 750,
+      "rect": [-600, -375, 600, 375]
+    }
+  ]
+}

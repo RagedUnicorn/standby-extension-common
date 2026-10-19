@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.bag",
+  "names": {
+    "en": "Bag",
+    "de": "Tasche",
+    "fr": "Sac"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "ipsc", "uspsa"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -83.3
+  },
+  "physical": {
+    "width": 600,
+    "height": 300
+  },
+  "carry": {
+    "hands": 1,
+    "mode": "carry"
+  }
+}

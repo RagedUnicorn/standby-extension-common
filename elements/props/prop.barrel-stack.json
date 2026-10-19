@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.barrel-stack",
+  "names": {
+    "en": "Barrel stack",
+    "de": "Fassstapel",
+    "fr": "Pile de tonneaux"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "ipsc", "uspsa"],
+  "labelFamily": "B",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -375
+  },
+  "physical": {
+    "width": 1160,
+    "height": 1760
+  },
+  "blocks": {
+    "depth": 580
+  },
+  "footprint": {
+    "depth": 700
+  },
+  "surfaces": [
+    {
+      "top": 885,
+      "circle": [-300, 0, 290]
+    },
+    {
+      "top": 885,
+      "circle": [300, 0, 290]
+    },
+    {
+      "top": 1765,
+      "circle": [0, 0, 290]
+    }
+  ]
+}

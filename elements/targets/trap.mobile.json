@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "trap.mobile",
+  "names": {
+    "en": "Mobile bullet trap",
+    "de": "Mobiler Kugelfang",
+    "fr": "Récupérateur de balles mobile"
+  },
+  "category": "targets",
+  "family": "target",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "T",
+  "count": {
+    "class": "paper"
+  },
+  "art": {
+    "kind": "trap"
+  },
+  "physical": {
+    "width": 800,
+    "height": 1000,
+    "depth": 600
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.barrel-pair",
+  "names": {
+    "en": "Barrel pair",
+    "de": "Fasspaar",
+    "fr": "Paire de tonneaux"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "B",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "foot": [0, 0],
+    "labelY": -208.3
+  },
+  "physical": {
+    "width": 1160,
+    "height": 880
+  },
+  "blocks": {
+    "depth": 580
+  },
+  "footprint": {
+    "depth": 700
+  },
+  "surfaces": [
+    {
+      "top": 885,
+      "circle": [-300, 0, 290]
+    },
+    {
+      "top": 885,
+      "circle": [300, 0, 290]
+    }
+  ]
+}

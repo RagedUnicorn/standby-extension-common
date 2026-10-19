@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.dummy",
+  "names": {
+    "en": "Rescue dummy",
+    "de": "Rettungspuppe",
+    "fr": "Mannequin de sauvetage"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -70.8
+  },
+  "physical": {
+    "width": 1700,
+    "height": 300,
+    "depth": 450
+  },
+  "carry": {
+    "hands": 2,
+    "mode": "drag"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.barrel",
+  "names": {
+    "en": "Barrel",
+    "de": "Fass",
+    "fr": "Tonneau"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "B",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -191.7
+  },
+  "physical": {
+    "width": 580,
+    "height": 880
+  },
+  "blocks": {
+    "depth": 580
+  },
+  "footprint": {
+    "depth": 580
+  },
+  "surfaces": [
+    {
+      "top": 885,
+      "circle": [0, 0, 290]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.chair",
+  "names": {
+    "en": "Chair",
+    "de": "Stuhl",
+    "fr": "Chaise"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -208.3
+  },
+  "physical": {
+    "width": 450,
+    "height": 900
+  },
+  "footprint": {
+    "depth": 450
+  },
+  "surfaces": [
+    {
+      "top": 470,
+      "rect": [-220, -210, 220, 210]
+    }
+  ]
+}

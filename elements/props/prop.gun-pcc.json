@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.gun-pcc",
+  "names": {
+    "en": "Carbine (PCC)",
+    "de": "Karabiner (PCC)",
+    "fr": "Carabine (PCC)"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -116.7
+  },
+  "physical": {
+    "width": 750,
+    "height": 220,
+    "depth": 55
+  },
+  "onSurface": true
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.tyres",
+  "names": {
+    "en": "Tyre stack",
+    "de": "Reifenstapel",
+    "fr": "Pile de pneus"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "ipsc", "uspsa"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "foot": [0, 0],
+    "labelY": -125
+  },
+  "physical": {
+    "width": 700,
+    "height": 600
+  },
+  "blocks": {
+    "depth": 700
+  },
+  "footprint": {
+    "depth": 700
+  }
+}

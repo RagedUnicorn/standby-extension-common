@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "activator.pull",
+  "names": {
+    "en": "Pull handle",
+    "de": "Zuggriff",
+    "fr": "Poignée de traction"
+  },
+  "category": "activators",
+  "family": "activator",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": "A",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -258.3
+  },
+  "physical": {
+    "width": 100,
+    "height": 100
+  },
+  "activation": "pull"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "activator.bear-trap",
+  "names": {
+    "en": "Bear trap",
+    "de": "Bear Trap",
+    "fr": "Bear trap"
+  },
+  "category": "activators",
+  "family": "activator",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": "A",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -208.3
+  },
+  "physical": {
+    "width": 400,
+    "height": 300
+  },
+  "activation": "step"
+}

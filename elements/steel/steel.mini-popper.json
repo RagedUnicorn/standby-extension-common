@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "steel.mini-popper",
+  "names": {
+    "en": "Mini popper",
+    "de": "Mini-Popper",
+    "fr": "Mini popper"
+  },
+  "category": "steel",
+  "family": "steel",
+  "disciplines": ["cma", "ipsc", "uspsa"],
+  "labelFamily": "S",
+  "count": {
+    "class": "steel"
+  },
+  "art": {
+    "kind": "popper",
+    "scale": 0.68
+  },
+  "physical": {
+    "width": 200,
+    "height": 570
+  },
+  "mount": 0
+}

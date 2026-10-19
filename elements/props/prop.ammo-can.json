@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.ammo-can",
+  "names": {
+    "en": "Ammo can",
+    "de": "Munitionskiste",
+    "fr": "Caisse à munitions"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -66.7
+  },
+  "physical": {
+    "width": 300,
+    "height": 190,
+    "depth": 155
+  },
+  "carry": {
+    "hands": 1,
+    "mode": "carry"
+  }
+}

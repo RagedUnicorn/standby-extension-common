@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.sandbag",
+  "names": {
+    "en": "Sandbag",
+    "de": "Sandsack",
+    "fr": "Sac de sable"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -62.5
+  },
+  "physical": {
+    "width": 600,
+    "height": 250
+  },
+  "carry": {
+    "hands": 2,
+    "mode": "carry"
+  },
+  "weight": {
+    "women": 10,
+    "men": 15
+  }
+}

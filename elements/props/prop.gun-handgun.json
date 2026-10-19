@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.gun-handgun",
+  "names": {
+    "en": "Handgun",
+    "de": "Faustfeuerwaffe",
+    "fr": "Arme de poing"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -75
+  },
+  "physical": {
+    "width": 190,
+    "height": 135,
+    "depth": 32
+  },
+  "onSurface": true
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.kettlebell",
+  "names": {
+    "en": "Kettlebell",
+    "de": "Kettlebell",
+    "fr": "Kettlebell"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -83.3
+  },
+  "physical": {
+    "width": 200,
+    "height": 280
+  },
+  "carry": {
+    "hands": 1,
+    "mode": "carry"
+  },
+  "weight": {
+    "women": 12,
+    "men": 16
+  }
+}

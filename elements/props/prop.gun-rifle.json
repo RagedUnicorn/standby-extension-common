@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.gun-rifle",
+  "names": {
+    "en": "Rifle",
+    "de": "Gewehr",
+    "fr": "Fusil"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -125
+  },
+  "physical": {
+    "width": 1000,
+    "height": 250,
+    "depth": 60
+  },
+  "onSurface": true
+}

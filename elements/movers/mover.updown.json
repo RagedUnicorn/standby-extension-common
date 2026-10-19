@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "mover.updown",
+  "names": {
+    "en": "Up-and-down",
+    "de": "Auf-und-ab",
+    "fr": "Monte-et-baisse"
+  },
+  "category": "movers",
+  "family": "mover",
+  "disciplines": ["cma", "ipsc", "uspsa"],
+  "labelFamily": "T",
+  "count": {
+    "class": "paper"
+  },
+  "art": {
+    "kind": "updown"
+  },
+  "physical": {
+    "width": 460,
+    "height": 720
+  }
+}

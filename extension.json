@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/extension.json",
+  "format": 1,
+  "id": "common",
+  "names": {
+    "en": "Common",
+    "de": "Allgemein",
+    "fr": "Commun"
+  },
+  "version": "1.0.0",
+  "standby": "0.1.0",
+  "repository": "RagedUnicorn/standby-extension-common",
+  "licence": "MIT",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "aliases": {
+    "cma.popper": "steel.popper",
+    "ipsc.popper": "steel.popper",
+    "cma.plate": "steel.plate-round"
+  },
+  "order": [
+    "trap.mobile",
+    "steel.popper",
+    "steel.mini-popper",
+    "steel.plate-round",
+    "steel.plate-square",
+    "mover.swinger",
+    "mover.updown",
+    "mover.turner",
+    "activator.bear-trap",
+    "activator.pedal",
+    "activator.pull",
+    "activator.button",
+    "prop.barrel",
+    "prop.barrel-pair",
+    "prop.barrel-stack",
+    "prop.tyres",
+    "prop.table",
+    "prop.chair",
+    "prop.crate",
+    "prop.cone",
+    "prop.bag",
+    "prop.kettlebell",
+    "prop.sandbag",
+    "prop.ammo-can",
+    "prop.dummy",
+    "prop.gun-handgun",
+    "prop.gun-pcc",
+    "prop.gun-rifle",
+    "prop.gun-shotgun"
+  ]
+}

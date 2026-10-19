@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.crate",
+  "names": {
+    "en": "Crate",
+    "de": "Kiste",
+    "fr": "Caisse"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -141.7
+  },
+  "physical": {
+    "width": 600,
+    "height": 600
+  },
+  "blocks": {
+    "depth": 600
+  },
+  "footprint": {
+    "depth": 600
+  },
+  "surfaces": [
+    {
+      "top": 600,
+      "rect": [-300, -300, 300, 300]
+    }
+  ]
+}

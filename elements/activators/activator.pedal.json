@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "activator.pedal",
+  "names": {
+    "en": "Foot pedal",
+    "de": "Fusspedal",
+    "fr": "Pédale"
+  },
+  "category": "activators",
+  "family": "activator",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa"],
+  "labelFamily": "A",
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -141.7
+  },
+  "physical": {
+    "width": 300,
+    "height": 200
+  },
+  "activation": "step"
+}

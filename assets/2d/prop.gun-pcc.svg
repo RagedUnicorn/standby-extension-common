@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-383.333 -241.667 766.667 241.667">
+  <g transform="scale(4.16667)">
+    <path d="M-90 -42L-55 -40V-28L-90 -20Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-38 -28H-26L-30 -8H-42Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-10 -28H2V-2H-10Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M60 -39H90V-34H60Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-55 -44H15V-28H-55Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M15 -42H60V-30H15Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-40 -48H10V-44H-40Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-26 -56H-6V-48H-26Z" fill="#3B4046" stroke="#16181B" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="-6" cy="-52" r="1.6" fill="#BC312E"/>
+    <path d="M20 -36H54M-48 -36H-14" fill="none" stroke="#8A939C" stroke-width="1.5"/>
+  </g>
+</svg>

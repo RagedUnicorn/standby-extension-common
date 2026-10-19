@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "steel.popper",
+  "names": {
+    "en": "Popper",
+    "de": "Popper",
+    "fr": "Popper"
+  },
+  "category": "steel",
+  "family": "steel",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "S",
+  "count": {
+    "class": "steel"
+  },
+  "art": {
+    "kind": "popper"
+  },
+  "physical": {
+    "width": 300,
+    "height": 850
+  },
+  "mount": 0
+}

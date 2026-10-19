@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "prop.gun-shotgun",
+  "names": {
+    "en": "Shotgun",
+    "de": "Flinte",
+    "fr": "Fusil à pompe"
+  },
+  "category": "props",
+  "family": "prop",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": null,
+  "count": {
+    "class": "none"
+  },
+  "art": {
+    "kind": "asset",
+    "labelY": -108.3
+  },
+  "physical": {
+    "width": 1000,
+    "height": 190,
+    "depth": 50
+  },
+  "onSurface": true
+}

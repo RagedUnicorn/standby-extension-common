@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "steel.plate-round",
+  "names": {
+    "en": "Round plate",
+    "de": "Runde Platte",
+    "fr": "Plaque ronde"
+  },
+  "category": "steel",
+  "family": "steel",
+  "disciplines": ["cma", "idpa", "ipsc", "uspsa", "drill"],
+  "labelFamily": "S",
+  "count": {
+    "class": "steel"
+  },
+  "art": {
+    "kind": "plate"
+  },
+  "physical": {
+    "width": 200,
+    "height": 200
+  },
+  "mount": 900
+}
