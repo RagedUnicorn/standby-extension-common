@@ -1,3 +1,5 @@
+![standby-extension-common](docs/standby_extension_common_banner.svg)
+
 # Standby extension: Common
 
 The elements every discipline uses in [Standby](https://github.com/RagedUnicorn/standby):
